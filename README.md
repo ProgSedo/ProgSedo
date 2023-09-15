@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProgSedo
 - 👀 I’m interested in coding and mathematics.
 - 🌱 I’m currently learning Java.
-- I'm freshman in Bilkent University.
+- I'm a freshman in Bilkent University.
 -
 
 <!---
